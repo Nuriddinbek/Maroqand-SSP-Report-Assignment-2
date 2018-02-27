@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"phliker.com"},{"l":"phliker.com.controller"},{"l":"phliker.com.model"},{"l":"phliker.com.service"},{"l":"phliker.com.utils"}]
