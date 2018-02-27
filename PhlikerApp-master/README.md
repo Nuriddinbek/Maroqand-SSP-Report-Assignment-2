@@ -1,0 +1,2 @@
+# PhlikerApp
+#### This application is desktop application of previous Phliker Single Page Application that demonstrates Photo searching process. In this application [Flickr API](https://www.flickr.com/services/api) is used to retrieve photos from API and 
