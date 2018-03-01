@@ -78,6 +78,7 @@ public class PhotoController {
     @FXML
     private void searchImage(ActionEvent event) throws JSONException {
         counterImage=0;
+        cacheService.clearCache(counterImage);
         System.out.println(" search button clicked ");
         String input = searchField.getText();
         input = input.replace(" ", "+");
