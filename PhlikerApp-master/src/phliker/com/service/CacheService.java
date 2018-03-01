@@ -66,4 +66,13 @@ public class CacheService implements Service {
             return getImage(photo);
         }
     }
+     /**
+     * Clear cache when search counter is 0
+     * @param counter search index
+     */
+    public void clearCache(int counter){
+        if (counter==0){
+            cachedImages.clear();
+        }
+    }
 }
