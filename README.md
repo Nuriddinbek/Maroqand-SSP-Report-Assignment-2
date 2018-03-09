@@ -10,4 +10,11 @@
 ## CSS
  ### Basic understanding:
   * Selectors with classes, ids and elements
-  * Inline and 
+  * Inline and external styling models
+  * Box model usage
+  * CSS display Positions features
+  * CSS grid display models
+  
+## Javascript
+ ### Basic understanding: 
+  * 
