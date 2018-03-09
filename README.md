@@ -17,4 +17,9 @@
   
 ## Javascript
  ### Basic understanding: 
-  * 
+  * Control flow and functions
+  * Loops and iterators implementations
+  * Objects and classes usage
+  * Jquery library and its integration and implementaion
+  * Working with JSON files and objects
+  
