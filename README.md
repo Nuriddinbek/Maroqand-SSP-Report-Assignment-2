@@ -6,6 +6,7 @@
   * Classes&ids make it possible to perform certain tasks on certain elements
   * Table elements integrations with css styling
   * Content describers like paragraphs, headings and etc
+   ##### Tutorial: [codeacademy](https://www.codecademy.com/learn/learn-html) 
   
  ### CSS
   * Selectors with classes, ids and elements
@@ -13,6 +14,7 @@
   * Box model usage
   * CSS display Positions features
   * CSS grid display models
+   ##### Tutorial [codeacademy](https://www.codecademy.com/learn/learn-css)
   
  ### Javascript 
   * Control flow and functions
@@ -20,4 +22,6 @@
   * Objects and classes usage
   * Jquery library and its integration and implementaion
   * Working with JSON files and objects
+   ##### Tutorial [codeacademy](https://www.codecademy.com/learn/introduction-to-javascript) and [w3school](https://www.w3schools.com/js/default.asp)
+
   
