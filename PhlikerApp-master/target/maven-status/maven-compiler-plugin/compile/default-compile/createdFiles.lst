@@ -1,0 +1,10 @@
+phliker\com\model\Photo.class
+phliker\com\service\FlickrService.class
+phliker\com\service\Service.class
+phliker\com\Main.class
+phliker\com\utils\AppProperties.class
+phliker\com\model\Photos.class
+phliker\com\controller\PhotoController.class
+phliker\com\model\FlickrResponse.class
+testjava\MyJUnitTest.class
+phliker\com\service\CacheService.class
