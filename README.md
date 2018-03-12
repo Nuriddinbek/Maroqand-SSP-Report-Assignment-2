@@ -29,10 +29,16 @@
   * Easy creation for further API documentation
   * .java file integrated with other source files
   * Java Doclet generates HTML file of describing source files
-   #### Tutorial [docs.oracle](https://docs.oracle.com/javase/6/docs/technotes/tools/solaris/javadoc.html#documentationcomments)
+   ##### Tutorial [docs.oracle](https://docs.oracle.com/javase/6/docs/technotes/tools/solaris/javadoc.html#documentationcomments)
 
 ### Apache Maven
-  * 
+  * Realiable control over set of jar files
+  * Creating a right dependency and project structure
+  * Order of search repository:
+   1. Local Repository
+   2. Central Repository
+   3. Remote Repository
+   
   
 
   
