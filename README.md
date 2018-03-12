@@ -35,9 +35,9 @@
   * Realiable control over set of jar files
   * Creating a right dependency and project structure
   * Order of search repository:
-   ++ Local Repository
-   ++ Central Repository
-   ++ Remote Repository
+   - Local Repository
+   - Central Repository
+   - Remote Repository
    
   
 
