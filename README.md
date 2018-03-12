@@ -41,7 +41,11 @@
    ##### Tutorial [javatpoint](https://www.javatpoint.com/maven-repository)       
    
 ### Database Concepts & SQL          
-  *  
+  * Database systems design and their applications
+  * Primary key, foreign key. super key, candidate key and composite key
+  * Cardinality and domain constraints
+  * E-R model and Relational model
+  * Normalization forms
   
 
   
