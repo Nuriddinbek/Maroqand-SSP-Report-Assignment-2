@@ -35,10 +35,13 @@
   * Realiable control over set of jar files
   * Creating a right dependency and project structure
   * Order of search repository:
-   - Local Repository
-   - Central Repository
-   - Remote Repository
+          - Local Repository
+          - Central Repository
+          - Remote Repository
+   ##### Tutorial [javatpoint](https://www.javatpoint.com/maven-repository)       
    
+### Database Concepts & SQL          
+  *  
   
 
   
