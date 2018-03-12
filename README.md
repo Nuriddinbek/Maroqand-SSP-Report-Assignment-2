@@ -23,5 +23,16 @@
   * Jquery library and its integration and implementaion
   * Working with JSON files and objects
    ##### Tutorial [codeacademy](https://www.codecademy.com/learn/introduction-to-javascript) and [w3school](https://www.w3schools.com/js/default.asp)
+   
+### JavaDocs
+  * Generating JavaDoc files for whole project
+  * Easy creation for further API documentation
+  * .java file integrated with other source files
+  * Java Doclet generates HTML file of describing source files
+   #### Tutorial [docs.oracle](https://docs.oracle.com/javase/6/docs/technotes/tools/solaris/javadoc.html#documentationcomments)
+
+### Apache Maven
+  * 
+  
 
   
