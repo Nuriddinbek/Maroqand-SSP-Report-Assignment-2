@@ -47,5 +47,5 @@
   * E-R model and Relational model
   * Normalization forms
   * 100% practice on [codeacademy](https://www.codecademy.com/learn/learn-sql)
-### 
+
   
